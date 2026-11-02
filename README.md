@@ -1,6 +1,6 @@
 # 14 · Embeddings & retrieval on Slovak insurance terms
 
-🇸🇰 [Slovenská verzia](README.sk.md)
+🇸🇰 [Slovenská verzia](README.sk.md) · 📘 [Step-by-step tutorial](TUTORIAL.md)
 
 ## TL;DR
 - Finding the right clause for a customer's Slovak question in real insurance terms: **BM25 recall@5 0.191, base bge-m3 0.574**, on 141 hand-reviewed questions from insurers never seen in training.

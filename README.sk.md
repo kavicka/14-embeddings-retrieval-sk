@@ -1,6 +1,6 @@
 # 14 · Embeddingy a vyhľadávanie v slovenských poistných podmienkach
 
-🇬🇧 [English version](README.md)
+🇬🇧 [English version](README.md) · 📘 [Tutoriál krok za krokom](TUTORIAL.sk.md)
 
 ## TL;DR
 - Nájsť správnu klauzulu pre otázku klienta v skutočných poistných podmienkach: **BM25 recall@5 0,191, základný bge-m3 0,574**, na 141 ručne skontrolovaných otázkach od poisťovní, ktoré tréning nikdy nevidel.
