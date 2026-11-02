@@ -92,7 +92,7 @@ Pri základnom bge-m3 ostáva delenie v rámci šumu. Doladené modely strácaj�
 
 ![Recall vs latencia](assets/recall_latency.png)
 
-Veľkosť sa takmer nemení, lebo ju určujú vektory; graf pridá pár percent. HNSW je asi 29× rýchlejšie než presné hľadanie pri recall 0,955 a posledné percento recall stojí asi 3× viac času. Obe knižnice používajú ten istý algoritmus, takže odstup hnswlib od FAISS je tu aspoň čiastočne v tom, ako sa volajú z Pythonu. To som neoddeľoval.
+Veľkosť sa takmer nemení, lebo ju určujú vektory; graf pridá pár percent. HNSW je asi 29× rýchlejšie než presné hľadanie pri recall 0,955 a posun z recall 0,955 na 0,991 stojí asi 3× viac času. Obe knižnice používajú ten istý algoritmus, takže odstup hnswlib od FAISS je tu aspoň čiastočne v tom, ako sa volajú z Pythonu. To som neoddeľoval.
 
 ## Error analysis
 Pri vybranom modeli: 33 otázok sa dostalo do top 5, 27 z neho vypadlo, 54 stále chýba a 41 nie je ani v top 10.

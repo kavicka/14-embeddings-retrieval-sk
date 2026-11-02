@@ -92,7 +92,7 @@ For base bge-m3, chunking stays inside the noise. Fine-tuned models lose more on
 
 ![Recall vs latency](assets/recall_latency.png)
 
-Size barely changes, because the vectors dominate it; the graph adds a few percent. HNSW is about 29× faster than exact search at recall 0.955, and the last percent of recall costs about 3× more time. Both libraries run the same algorithm, so hnswlib's gap to FAISS here is at least partly how each is called from Python. I did not separate that.
+Size barely changes, because the vectors dominate it; the graph adds a few percent. HNSW is about 29× faster than exact search at recall 0.955, and going from recall 0.955 to 0.991 costs about 3× more time. Both libraries run the same algorithm, so hnswlib's gap to FAISS here is at least partly how each is called from Python. I did not separate that.
 
 ## Error analysis
 On the chosen model: 33 questions entered the top 5, 27 left it, 54 are still missing, and 41 are not in the top 10.
