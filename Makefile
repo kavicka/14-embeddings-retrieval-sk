@@ -4,7 +4,7 @@ sync:
 	uv sync
 
 run:
-	uv run python experiment.py
+	uv run python evaluate.py
 
 plot:
 	uv run python plot.py

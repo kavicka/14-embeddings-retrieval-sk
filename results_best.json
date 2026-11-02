@@ -1,0 +1,16 @@
+{
+ "rule": "highest val MRR@10 across epochs",
+ "candidates": {
+  "inbatch": {
+   "epoch": 1,
+   "val_mrr@10": 0.5694845491388045,
+   "val_recall@5": 0.7393617021276596
+  },
+  "hardneg": {
+   "epoch": 2,
+   "val_mrr@10": 0.609726443768997,
+   "val_recall@5": 0.7925531914893617
+  }
+ },
+ "best": "hardneg"
+}

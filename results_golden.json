@@ -1,0 +1,23 @@
+{
+ "generated": 220,
+ "extra_tries_for_lost_quotes": 87,
+ "candidates_with_quote": 190,
+ "dropped": 49,
+ "dropped_by_reason": {
+  "evidence_does_not_answer": 13,
+  "fragment_too_short_to_judge": 10,
+  "duplicate_of_another_question": 8,
+  "needs_the_document_open": 2,
+  "unnatural_or_off_product": 16
+ },
+ "rewritten": 20,
+ "golden": 141,
+ "by_document": {
+  "generali_hav": 25,
+  "generali_hav_poruchy": 20,
+  "generali_majetok": 13,
+  "union_vpp": 27,
+  "uniqa_cestovne": 27,
+  "uniqa_dcr": 29
+ }
+}

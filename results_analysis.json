@@ -1,0 +1,247 @@
+{
+ "chosen": "hardneg",
+ "other": "inbatch",
+ "other_vs_base_recall@5": {
+  "mean_difference": 0.09929078014184398,
+  "ci95": [
+   -0.0001773049645389466,
+   0.19858156028368795
+  ]
+ },
+ "other_vs_base_mrr@10": {
+  "mean_difference": 0.0635933806146572,
+  "ci95": [
+   -0.012983015310142967,
+   0.14061444613306306
+  ]
+ },
+ "other_minus_chosen_recall@5": {
+  "mean_difference": 0.05673758865248227,
+  "ci95": [
+   -0.02127659574468085,
+   0.1347517730496454
+  ]
+ },
+ "other_minus_chosen_mrr@10": {
+  "mean_difference": 0.06239164696611505,
+  "ci95": [
+   0.007958882134414048,
+   0.11815370651806821
+  ]
+ },
+ "strategy": "fixed200",
+ "recall@5_difference": {
+  "mean_difference": 0.0425531914893617,
+  "ci95": [
+   -0.07092198581560284,
+   0.14184397163120568
+  ]
+ },
+ "mrr@10_difference": {
+  "mean_difference": 0.001201733648542158,
+  "ci95": [
+   -0.0835349121918271,
+   0.08070330969267132
+  ]
+ },
+ "per_document": {
+  "generali_hav": {
+   "questions": 25,
+   "base_recall@5": 0.56,
+   "tuned_recall@5": 0.72
+  },
+  "generali_hav_poruchy": {
+   "questions": 20,
+   "base_recall@5": 0.7,
+   "tuned_recall@5": 0.65
+  },
+  "generali_majetok": {
+   "questions": 13,
+   "base_recall@5": 0.6153846153846154,
+   "tuned_recall@5": 0.6923076923076923
+  },
+  "union_vpp": {
+   "questions": 27,
+   "base_recall@5": 0.5925925925925926,
+   "tuned_recall@5": 0.5555555555555556
+  },
+  "uniqa_cestovne": {
+   "questions": 27,
+   "base_recall@5": 0.4074074074074074,
+   "tuned_recall@5": 0.6296296296296297
+  },
+  "uniqa_dcr": {
+   "questions": 29,
+   "base_recall@5": 0.6206896551724138,
+   "tuned_recall@5": 0.5172413793103449
+  }
+ },
+ "recall@5_by_group": {
+  "rewritten_by_hand": {
+   "questions": 20,
+   "base": 0.75,
+   "inbatch": 0.8,
+   "hardneg": 0.75
+  },
+  "as_generated": {
+   "questions": 121,
+   "base": 0.5454545454545454,
+   "inbatch": 0.6528925619834711,
+   "hardneg": 0.5950413223140496
+  },
+  "short_under_80_chars": {
+   "questions": 41,
+   "base": 0.6341463414634146,
+   "inbatch": 0.5365853658536586,
+   "hardneg": 0.4878048780487805
+  },
+  "long_80_chars_or_more": {
+   "questions": 100,
+   "base": 0.55,
+   "inbatch": 0.73,
+   "hardneg": 0.67
+  }
+ },
+ "gained_top5": 33,
+ "lost_top5": 27,
+ "still_missed_top5": 54,
+ "not_in_top10": 41,
+ "examples_gained": [
+  {
+   "question": "Ak sa mi stane nehoda a auto bude poškodené, kedy to vlastne považujú za niečo, čo je na základe poistenia v poriadku a poisťovňa mi to zaplatí?",
+   "doc_id": "generali_hav",
+   "base_rank": 10,
+   "tuned_rank": 1
+  },
+  {
+   "question": "Ak kupujem nové auto a poistka začína plynúť hneď po jeho prevzatí, budem musieť nechať auto pred poistením skontrolovať odborníkom?",
+   "doc_id": "generali_hav",
+   "base_rank": 0,
+   "tuned_rank": 4
+  },
+  {
+   "question": "Ak mám poistku na moje auto a k tomu si ešte dohodnem doplnkové poistenie, bude kryť tie isté veci ako základná poistka?",
+   "doc_id": "generali_hav",
+   "base_rank": 6,
+   "tuned_rank": 1
+  },
+  {
+   "question": "Ak mi znížite poistné na ďalší rok, ale ja si omylom zaplatím to isté, čo som platil predtým, dostanem peniaze späť?",
+   "doc_id": "generali_hav",
+   "base_rank": 0,
+   "tuned_rank": 5
+  },
+  {
+   "question": "Ak mi niekto ukradne auto a v ňom spôsobí škodu, dostanem na opravu toľko, koľko by som dostal, keby som ho poškodil ja sám?",
+   "doc_id": "generali_hav",
+   "base_rank": 7,
+   "tuned_rank": 1
+  },
+  {
+   "question": "Ak mám poistku a niečo sa mi stalo, môžem si auto dať opraviť kdekoľvek alebo musím ísť do servisu, ktorý vy ste schválili? A ak pôjdem do iného servisu, čo sa stane s výškou náhrady?",
+   "doc_id": "generali_hav",
+   "base_rank": 6,
+   "tuned_rank": 4
+  }
+ ],
+ "examples_lost": [
+  {
+   "question": "Kedy presne začne platiť moje poistenie auta, keď podpíšem zmluvu?",
+   "doc_id": "generali_hav",
+   "base_rank": 2,
+   "tuned_rank": 0
+  },
+  {
+   "question": "Ak zomrie môj manžel a auto sme vlastnili spolu, kto je po ňom poistený?",
+   "doc_id": "generali_hav",
+   "base_rank": 4,
+   "tuned_rank": 0
+  },
+  {
+   "question": "Ak by som dal opraviť moje auto a použili by tam nové diely, ale servis mi povedal, že to bude stáť viac, ako je štandardná cena dielov a práce v autorizovanom servise, ako sa to započítava do toho, čo mi preplatia?",
+   "doc_id": "generali_hav",
+   "base_rank": 2,
+   "tuned_rank": 7
+  },
+  {
+   "question": "Ak mi po poistnej udalosti ostanú z auta použiteľné diely, komu patria?",
+   "doc_id": "generali_hav",
+   "base_rank": 3,
+   "tuned_rank": 0
+  },
+  {
+   "question": "Ak sa presťahujem, ako musím informovať, aby som dostával dôležité papiere?",
+   "doc_id": "generali_hav",
+   "base_rank": 3,
+   "tuned_rank": 0
+  },
+  {
+   "question": "Ak pošlem vám písomnú sťažnosť, môžem byť istý, že ste ju dostali a ako ju budete riešiť?",
+   "doc_id": "generali_hav",
+   "base_rank": 4,
+   "tuned_rank": 0
+  }
+ ],
+ "examples_missed": [
+  {
+   "question": "Kedy presne začne platiť moje poistenie auta, keď podpíšem zmluvu?",
+   "doc_id": "generali_hav",
+   "base_rank": 2,
+   "tuned_rank": 0
+  },
+  {
+   "question": "Ak zomrie môj manžel a auto sme vlastnili spolu, kto je po ňom poistený?",
+   "doc_id": "generali_hav",
+   "base_rank": 4,
+   "tuned_rank": 0
+  },
+  {
+   "question": "Ak by som dal opraviť moje auto a použili by tam nové diely, ale servis mi povedal, že to bude stáť viac, ako je štandardná cena dielov a práce v autorizovanom servise, ako sa to započítava do toho, čo mi preplatia?",
+   "doc_id": "generali_hav",
+   "base_rank": 2,
+   "tuned_rank": 7
+  },
+  {
+   "question": "Ak mi po poistnej udalosti ostanú z auta použiteľné diely, komu patria?",
+   "doc_id": "generali_hav",
+   "base_rank": 3,
+   "tuned_rank": 0
+  },
+  {
+   "question": "Ak sa ukáže, že som pri podpise zmluvy uviedol niečo iné o svojej jazdenej histórii a to sa preukáže až neskôr počas platnosti poistenia, musím doplatiť poistné za celú dobu poistenia?",
+   "doc_id": "generali_hav",
+   "base_rank": 0,
+   "tuned_rank": 0
+  },
+  {
+   "question": "Ak sa presťahujem, ako musím informovať, aby som dostával dôležité papiere?",
+   "doc_id": "generali_hav",
+   "base_rank": 3,
+   "tuned_rank": 0
+  },
+  {
+   "question": "Ak pošlem vám písomnú sťažnosť, môžem byť istý, že ste ju dostali a ako ju budete riešiť?",
+   "doc_id": "generali_hav",
+   "base_rank": 4,
+   "tuned_rank": 0
+  },
+  {
+   "question": "Aké situácie znamenajú, že moje auto bude poistené v prípade nehody?",
+   "doc_id": "generali_hav_poruchy",
+   "base_rank": 0,
+   "tuned_rank": 0
+  },
+  {
+   "question": "Môžem mať auto opraviť v akomkoľvek servise, alebo musím ísť len do tých, ktoré vy vybrali?",
+   "doc_id": "generali_hav_poruchy",
+   "base_rank": 1,
+   "tuned_rank": 0
+  },
+  {
+   "question": "Ak mám auto v cudzine a potrebujem ho opraviť, čo musím urobiť predtým, ako mi ju začnú opravovať?",
+   "doc_id": "generali_hav_poruchy",
+   "base_rank": 7,
+   "tuned_rank": 0
+  }
+ ]
+}

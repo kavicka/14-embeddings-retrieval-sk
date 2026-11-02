@@ -1,0 +1,9 @@
+{
+ "reader": "Claude, not the owner",
+ "pairs_kept": 1399,
+ "unique_questions": 1359,
+ "unique_passages": 859,
+ "read_every_10th": 140,
+ "evidence_only_loosely_answers": 11,
+ "notes": "Most questions are concrete customer situations. The 11 loose ones point at a neighbouring clause or a definition instead of the answer. Slovak grammar is uneven. Kept as they are: training tolerates some noise, and only the golden set was fixed by hand."
+}

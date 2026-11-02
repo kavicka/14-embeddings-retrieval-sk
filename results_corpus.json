@@ -1,0 +1,216 @@
+{
+ "documents": [
+  {
+   "doc_id": "slsp_majetok",
+   "insurer": "Slovenská sporiteľňa",
+   "product": "majetok",
+   "split": "train",
+   "url": "https://cdn0.erstegroup.com/content/dam/sk/slsp/www_slsp_sk/documents/Ine/vseobecne-poistne-podmienky-pre-poistenie-majetku-a-zodpovednosti-za-skodu-obcanov-pre-klientov-slovenskej-sporitelne-01082020.pdf",
+   "pages": 28,
+   "chars": 147283,
+   "headings": 3
+  },
+  {
+   "doc_id": "allianz_domov",
+   "insurer": "Allianz",
+   "product": "majetok",
+   "split": "train",
+   "url": "https://www.allianz.sk/content/dam/onemarketing/cee/azsk/majetok/môj-domov/Všeobecné-poistné-podmienky-(schválené-dňa-30.9.2016).pdf",
+   "pages": 25,
+   "chars": 142861,
+   "headings": 64
+  },
+  {
+   "doc_id": "union_vpp",
+   "insurer": "Union",
+   "product": "všeobecné",
+   "split": "test",
+   "url": "https://www.union.sk/wp-content/uploads/2022/11/Vseobecne-poistne-podmienky-platne-od-1.1.2021.pdf",
+   "pages": 48,
+   "chars": 186718,
+   "headings": 60
+  },
+  {
+   "doc_id": "csob_domos",
+   "insurer": "ČSOB",
+   "product": "majetok",
+   "split": "train",
+   "url": "https://csob.sk/documents/11005/99131/VPP_pre_Domos_Kompakt_od_18102024.pdf",
+   "pages": 45,
+   "chars": 213414,
+   "headings": 49
+  },
+  {
+   "doc_id": "colonnade_cestovne",
+   "insurer": "Colonnade",
+   "product": "cestovné",
+   "split": "train",
+   "url": "https://citi.com/icg/sa/emea/slovakia/assets/docs/Cestovne_a_urazove_poistenie_colonnade_poistne_podmienky_platne_od_01.02.2020.pdf",
+   "pages": 17,
+   "chars": 54990,
+   "headings": 0
+  },
+  {
+   "doc_id": "kp_tuzemske",
+   "insurer": "Komunálna",
+   "product": "cestovné",
+   "split": "train",
+   "url": "https://www.kpas.sk/content/files/PP/NezivotnePoistenie/202301/Všeobecné poistné podmienky pre tuzemské cestovné poistenie (VPP 393-5).pdf",
+   "pages": 19,
+   "chars": 51865,
+   "headings": 7
+  },
+  {
+   "doc_id": "kp_eurotravel",
+   "insurer": "Komunálna",
+   "product": "cestovné",
+   "split": "train",
+   "url": "https://www.kpas.sk/content/files/PP/NezivotnePoistenie/202301/Všeobecné poistné podmienky pre cestovné poistenie v zahraničí  EUROTRAVEL - ONLINE  (VPP 396-3).pdf",
+   "pages": 10,
+   "chars": 60235,
+   "headings": 3
+  },
+  {
+   "doc_id": "kp_pzp",
+   "insurer": "Komunálna",
+   "product": "motor",
+   "split": "train",
+   "url": "https://www.kpas.sk/content/files/Všeobecné poistné podmienky pre poistenie zodpovednosti za škodu spôsobenú prevádzkou motorového vozidla (VPP 705-11).pdf",
+   "pages": 9,
+   "chars": 58033,
+   "headings": 0
+  },
+  {
+   "doc_id": "uniqa_cestovne",
+   "insurer": "UNIQA",
+   "product": "cestovné",
+   "split": "test",
+   "url": "https://www.uniqa.sk/documents/uniqa_dokumenty/produkty/cestovne-poistenie-na-slovensku/uniqa-do-31.8.2021/cp-164-vpp-cp-sk-18.pdf",
+   "pages": 14,
+   "chars": 72987,
+   "headings": 20
+  },
+  {
+   "doc_id": "uniqa_dcr",
+   "insurer": "UNIQA",
+   "product": "cestovné",
+   "split": "test",
+   "url": "https://www.uniqa.sk/documents/uniqa_dokumenty/produkty/cestovne-poistenie-na-slovensku/uniqa-do-31.8.2021/cp-177-vpp-dcr-h-19-pr-2.pdf",
+   "pages": 17,
+   "chars": 88594,
+   "headings": 21
+  },
+  {
+   "doc_id": "wustenrot_rpvs",
+   "insurer": "Wüstenrot",
+   "product": "zodpovednosť",
+   "split": "val",
+   "url": "https://wuestenrot.sk/wp-content/uploads/2024/10/VPP_RPVS_od_07_10_2024.pdf",
+   "pages": 5,
+   "chars": 35175,
+   "headings": 0
+  },
+  {
+   "doc_id": "kooperativa_tuzemske",
+   "insurer": "Kooperativa",
+   "product": "cestovné",
+   "split": "train",
+   "url": "https://universal.sk/wp-content/uploads/documents_old-web/VPP_Tuzemské%20CP1606811078009.pdf",
+   "pages": 21,
+   "chars": 48424,
+   "headings": 30
+  },
+  {
+   "doc_id": "zodpovednost_zamestnanca",
+   "insurer": "neuvedená",
+   "product": "zodpovednosť",
+   "split": "train",
+   "url": "https://universal.sk/wp-content/uploads/documents_old-web/VPP%20PRE%20POISTENIE%20ZODPOVEDNOSTI%20ZA%20ŠKODU%20SPÔSOBENÚ%20PRI%20VÝKONE%20POVOLANIA%20ZAM%2020191606833403049.pdf",
+   "pages": 10,
+   "chars": 46053,
+   "headings": 23
+  },
+  {
+   "doc_id": "mbank_karty",
+   "insurer": "mBank",
+   "product": "cestovné",
+   "split": "val",
+   "url": "https://www.mbank.sk/pdf-web/poistenie/VPP_OPP_Cestovne_karty.pdf",
+   "pages": 26,
+   "chars": 161372,
+   "headings": 34
+  },
+  {
+   "doc_id": "generali_hav",
+   "insurer": "Generali",
+   "product": "motor",
+   "split": "test",
+   "url": "https://www.generali.sk/wp-content/uploads/2024/05/VPP_HAV_16.pdf",
+   "pages": 16,
+   "chars": 88995,
+   "headings": 27
+  },
+  {
+   "doc_id": "generali_hav_poruchy",
+   "insurer": "Generali",
+   "product": "motor",
+   "split": "test",
+   "url": "https://www.generali.sk/wp-content/uploads/2019/02/vpp-hav-17_2019_fin.pdf",
+   "pages": 17,
+   "chars": 93449,
+   "headings": 30
+  },
+  {
+   "doc_id": "generali_majetok",
+   "insurer": "Generali",
+   "product": "majetok",
+   "split": "test",
+   "url": "https://www.generali.sk/wp-content/uploads/2023/08/VPPMaZFO2017_v3_04_2023.pdf",
+   "pages": 24,
+   "chars": 130815,
+   "headings": 0
+  },
+  {
+   "doc_id": "kooperativa_hav",
+   "insurer": "Kooperativa",
+   "product": "motor",
+   "split": "train",
+   "url": "https://kooperativa.sk/content/userfiles/insuranceterms/1533282754852.pdf",
+   "pages": 12,
+   "chars": 58718,
+   "headings": 17
+  },
+  {
+   "doc_id": "kp_prodomo",
+   "insurer": "Komunálna",
+   "product": "majetok",
+   "split": "train",
+   "url": "https://www.kpas.sk/content/files/vseobecne-poistne-podmienky-pre-poistenie-majetku-a-zodpovednosti-za-skodu-obcanov-prodomo-vpp-mzo-5-p.pdf",
+   "pages": 36,
+   "chars": 246597,
+   "headings": 88
+  },
+  {
+   "doc_id": "wustenrot_domov",
+   "insurer": "Wüstenrot",
+   "product": "majetok",
+   "split": "val",
+   "url": "https://www.wuestenrot.sk/wp-content/uploads/2026/01/VPP_AS_W_dobrom_domov_od_10_05_2025.pdf",
+   "pages": 58,
+   "chars": 117328,
+   "headings": 18
+  }
+ ],
+ "failed": [],
+ "overlap_with_train_pct": {
+  "union_vpp": 11.1,
+  "uniqa_cestovne": 3.3,
+  "uniqa_dcr": 2.8,
+  "wustenrot_rpvs": 5.9,
+  "mbank_karty": 1.6,
+  "generali_hav": 4.6,
+  "generali_hav_poruchy": 4.5,
+  "generali_majetok": 5.8,
+  "wustenrot_domov": 3.5
+ }
+}

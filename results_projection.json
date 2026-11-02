@@ -1,0 +1,14 @@
+{
+ "sample": 40,
+ "chosen": "hardneg",
+ "base bge-m3": {
+  "mean_own": 0.5992439389228821,
+  "mean_other": 0.4696415066719055,
+  "share_own_is_best": 0.575
+ },
+ "fine-tuned": {
+  "mean_own": 0.4502057433128357,
+  "mean_other": 0.020460311323404312,
+  "share_own_is_best": 0.8
+ }
+}

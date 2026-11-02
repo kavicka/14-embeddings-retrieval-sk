@@ -1,0 +1,1271 @@
+[
+ {
+  "question": "Ak sa mi stane nehoda a auto bude poškodené, kedy to vlastne považujú za niečo, čo je na základe poistenia v poriadku a poisťovňa mi to zaplatí?",
+  "doc_id": "generali_hav",
+  "span": [
+   1209,
+   1419
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak kupujem nové auto a poistka začína plynúť hneď po jeho prevzatí, budem musieť nechať auto pred poistením skontrolovať odborníkom?",
+  "doc_id": "generali_hav",
+  "span": [
+   2457,
+   2654
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak si zaplatím asistenčné služby, podľa akých pravidiel sa to bude riešiť?",
+  "doc_id": "generali_hav",
+  "span": [
+   6141,
+   6237
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mám poistku na moje auto a k tomu si ešte dohodnem doplnkové poistenie, bude kryť tie isté veci ako základná poistka?",
+  "doc_id": "generali_hav",
+  "span": [
+   6416,
+   6527
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak si zvolím nižšiu hodnotu vozidla pri uzatváraní poistenia, znamená to, že som ho poistil na menej peňazí, než vlastne stojí?",
+  "doc_id": "generali_hav",
+  "span": [
+   12366,
+   12488
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Kedy presne začne platiť moje poistenie auta, keď podpíšem zmluvu?",
+  "doc_id": "generali_hav",
+  "span": [
+   12883,
+   13083
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak zomrie môj manžel a auto sme vlastnili spolu, kto je po ňom poistený?",
+  "doc_id": "generali_hav",
+  "span": [
+   15733,
+   16053
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak mi znížite poistné na ďalší rok, ale ja si omylom zaplatím to isté, čo som platil predtým, dostanem peniaze späť?",
+  "doc_id": "generali_hav",
+  "span": [
+   20924,
+   21103
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak by som dal opraviť moje auto a použili by tam nové diely, ale servis mi povedal, že to bude stáť viac, ako je štandardná cena dielov a práce v autorizovanom servise, ako sa to započítava do toho, čo mi preplatia?",
+  "doc_id": "generali_hav",
+  "span": [
+   23483,
+   23746
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi po poistnej udalosti ostanú z auta použiteľné diely, komu patria?",
+  "doc_id": "generali_hav",
+  "span": [
+   24355,
+   24469
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak mi niekto ukradne auto a v ňom spôsobí škodu, dostanem na opravu toľko, koľko by som dostal, keby som ho poškodil ja sám?",
+  "doc_id": "generali_hav",
+  "span": [
+   24699,
+   24873
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mám poistku a niečo sa mi stalo, môžem si auto dať opraviť kdekoľvek alebo musím ísť do servisu, ktorý vy ste schválili? A ak pôjdem do iného servisu, čo sa stane s výškou náhrady?",
+  "doc_id": "generali_hav",
+  "span": [
+   28872,
+   28999
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi auto pokazí v zahraničí a chcem ho dať opraviť v servise tam, potrebujem nejaký váš súhlas predtým, než to zaplatím?",
+  "doc_id": "generali_hav",
+  "span": [
+   30565,
+   30780
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa ukáže, že som pri podpise zmluvy uviedol niečo iné o svojej jazdenej histórii a to sa preukáže až neskôr počas platnosti poistenia, musím doplatiť poistné za celú dobu poistenia?",
+  "doc_id": "generali_hav",
+  "span": [
+   43446,
+   43835
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mám nehodu a poškodenie auta vyzerá, že vzniklo postupne, nie v jednej chvíli, bude sa to počítať ako jedna alebo viacero nehôd pri určovaní mojej zľavy?",
+  "doc_id": "generali_hav",
+  "span": [
+   43841,
+   44154
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak ťahám prívesný vozík, musím mať nejaký špeciálny systém na zabezpečenie, napríklad zámok na príves?",
+  "doc_id": "generali_hav",
+  "span": [
+   45202,
+   45295
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mám poistku na auto a priplatím si poistenie batožiny, platí to aj pre veci, ktoré mám v aute, keď cestujem?",
+  "doc_id": "generali_hav",
+  "span": [
+   48722,
+   48939
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak môj blízky zomrie na následky nehody do troch rokov od nej, vyplatí poisťovňa peniaze?",
+  "doc_id": "generali_hav",
+  "span": [
+   56778,
+   56997
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak sa zraním a lekár mi povie, že budem musieť liečbu podstupovať dlhšie ako dva týždne, dostanem peniaze a koľko?",
+  "doc_id": "generali_hav",
+  "span": [
+   59902,
+   60215
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi stane nehoda v zahraničí a zraním sa, čo musím priniesť, aby som si mohol u vás nárokovať peniaze?",
+  "doc_id": "generali_hav",
+  "span": [
+   63001,
+   63078
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Keď som kupoval auto, zaplatil som zaň 20 000 eur a k tomu ešte 1 000 eur za klimatizáciu, ktorá bola v cenníku výrobcu. Ak by auto bolo zničené, koľko peňazí mi vyplatíte?",
+  "doc_id": "generali_hav",
+  "span": [
+   70063,
+   70437
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi auto pokazí a potrebujem opravu, koľko mi zaplatia za prácu mechanika?",
+  "doc_id": "generali_hav",
+  "span": [
+   71945,
+   72101
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa presťahujem, ako musím informovať, aby som dostával dôležité papiere?",
+  "doc_id": "generali_hav",
+  "span": [
+   77654,
+   77861
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak pošlem vám písomnú sťažnosť, môžem byť istý, že ste ju dostali a ako ju budete riešiť?",
+  "doc_id": "generali_hav",
+  "span": [
+   81840,
+   81988
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak by som potreboval auto opraviť v krajine, ktorá je na zozname krajín, ktorým sú udelené sankcie, poisťovňa by mi v tom pomohla alebo by mi škodu zaplatila?",
+  "doc_id": "generali_hav",
+  "span": [
+   84407,
+   84635
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Aké situácie znamenajú, že moje auto bude poistené v prípade nehody?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   2669,
+   2861
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa po nehode neviem spomenúť na presné číslo špz alebo meno a priezvisko vodiča druhého auta, bude mi poistka platiť?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   4933,
+   5011
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Môžem mať auto opraviť v akomkoľvek servise, alebo musím ísť len do tých, ktoré vy vybrali?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   5285,
+   5541
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa môj manžel a ja rozhodneme, že už nechceme vlastniť auto spolu, ale rozdelíme ho a každý bude vlastniť len časť, a následne sa rozhodneme, že ho dostanem ja, budem aj ja poistený na toto auto?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   16160,
+   16391
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Kedy musím zaplatiť poistné a na ako dlho platí toto poistné?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   17442,
+   17710
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mám auto v cudzine a potrebujem ho opraviť, čo musím urobiť predtým, ako mi ju začnú opravovať?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   30200,
+   30414
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak by som nechal auto opraviť v cudzí krajine a oprava by stála viac, ako je hodnota auta, zaplatíte celú opravu?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   31602,
+   31716
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi stane nehoda a vznikne značná škoda na aute, musím niečo robiť okrem nahlásenia poistnej udalosti?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   36073,
+   36261
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak som mal v predchádzajúcom roku nehodu, ako to ovplyvní výšku poistného a stupeň bonusu v ďalšom roku?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   41501,
+   41762
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Mám v aute systém na vyhľadanie po krádeži. Na akom území musí fungovať?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   47035,
+   47138
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak mám poistenú špeciálnu výbavu na aute a niečo sa jej stane, za koľko mi ju nahradia?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   47402,
+   47644
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi niekto ukradne veci z auta, dostanem za ne plnú hodnotu, akú mali vtedy, alebo mi zaplatia menej, pretože sú už použité?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   50887,
+   51086
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi ukradnutá batožina po čase nájde, musím to poisťovni oznámiť?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   52296,
+   52563
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak má môj príbuzný nehodu a neskôr na ňu zomrie, ale už mi poisťovňa vyplatila peniaze za trvalé následky tejto nehody, dostanem celú sumu, ktorú mám v poistke, alebo mi vyplatia menej?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   56897,
+   57105
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi po dopravnej nehode vznikne naraz viacero trvalých následkov, napríklad strata prsta a obmedzenie pohybu ruky, ako sa to posudzuje pri výpočte náhrady?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   58228,
+   58679
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi auto pokazí a potrebujem si požičať náhradné, koľko času mi zaplatíte za jeho prenájom?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   64134,
+   64429
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa moje auto pokazí a bude ho opravovať viac ako jeden deň, koľko dní mi zaplatíte náhradné auto a aký je limit, koľko mi zaplatíte za samotné náhradné auto?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   64889,
+   65042
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak je auto zapísané na mňa v technickom preukaze, tak som jeho držiteľ?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   74780,
+   74950
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi list od poisťovne vráti ako nedoručiteľný, lebo som sa odsťahoval, kedy sa považuje za doručený?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   84465,
+   84667
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak sa mi na vás obrátim so sťažnosťou, do koľkých dní mi musíte povedať, čo s ňou urobíte a ako ju vyriešite?",
+  "doc_id": "generali_hav_poruchy",
+  "span": [
+   88453,
+   88622
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak niekto, kto má poistenie zodpovednosti, spôsobí nehodu, pretože pil alkohol, bude musieť doplatiť nejaké peniaze?",
+  "doc_id": "generali_majetok",
+  "span": [
+   30788,
+   31036
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak niekto nás napadne a ukradne nám veci, je táto poisťovňa povinná nám to preplatiť?",
+  "doc_id": "generali_majetok",
+  "span": [
+   68168,
+   68393
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak vo vnútri kotla prebehne chemická reakcia a poškodí ho, hoci steny nepraskli, berie sa to ako výbuch?",
+  "doc_id": "generali_majetok",
+  "span": [
+   74546,
+   74698
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak sa zmenia zákony, na ktoré sa poistka odvoláva, znamená to, že aj moja poistka bude zrušená alebo sa bude musieť zmeniť?",
+  "doc_id": "generali_majetok",
+  "span": [
+   90147,
+   90384
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak by sa náš bytový dom poškodil tak, že stavebný úrad nariadi jeho zbúranie, je to zahrnuté v poistení?",
+  "doc_id": "generali_majetok",
+  "span": [
+   97323,
+   97551
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Mám okno s bezpečnostnou fóliou, ale dá sa otvárať. Potrebujem k nemu ešte niečo dokúpiť, aby bolo poistné krytie vyššie?",
+  "doc_id": "generali_majetok",
+  "span": [
+   120593,
+   120885
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Mám dvere so sklenenou výplňou, pri ktorých je táto výplň len v skle a nemá žiadne dodatočné zabezpečenie. Ak by mi niekto vliezol cez túto výplň, dostanem plnú náhradu škody?",
+  "doc_id": "generali_majetok",
+  "span": [
+   121772,
+   121958
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak niekto vylezie cez moju rolovaciu garážovú bránu a niečo mi ukradne, bude mi poisťovňa hradiť škodu?",
+  "doc_id": "generali_majetok",
+  "span": [
+   121959,
+   122142
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Mám doma alarm so sirénou. Zvýši sa mi tým limit plnenia pri vlámaní?",
+  "doc_id": "generali_majetok",
+  "span": [
+   122962,
+   123125
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Aká hrubá musí byť ochranná fólia na skle, aby ju poisťovňa uznala?",
+  "doc_id": "generali_majetok",
+  "span": [
+   124641,
+   124800
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Mám mriežku na oknách, ktorá nie je z ocele, ale je veľmi pevná. Bude to pre vás v poriadku, ak ju zahrniete do poistenia?",
+  "doc_id": "generali_majetok",
+  "span": [
+   127950,
+   128152
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Môžem mať na presklených balkónových dverách zvnútra zasunutý kľúč?",
+  "doc_id": "generali_majetok",
+  "span": [
+   128811,
+   128978
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak mám zatvorené dvere a okná, ale na okne mám starú, ľahko odskrutkovateľnú mriežku, je to stále považované za dostatočne zabezpečené?",
+  "doc_id": "generali_majetok",
+  "span": [
+   129865,
+   130188
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mám priateľku, s ktorou žijem v spoločnej domácnosti, bude sa na ňu vzťahovať ochrana poistenia, ak sa jej niečo stane?",
+  "doc_id": "union_vpp",
+  "span": [
+   3102,
+   3221
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Mám starožitnú zbraň, ktorú som kúpil na aukcii. Je táto vec zahrnutá v poistení?",
+  "doc_id": "union_vpp",
+  "span": [
+   4088,
+   4147
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa poistím na poistku domácnosti, môžem byť ja sám poistený?",
+  "doc_id": "union_vpp",
+  "span": [
+   16589,
+   16633
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa niekto pokúsi vylomiť dvere, aby niečo ukradol, a pri tom poškodí rám dverí, bude to hradené?",
+  "doc_id": "union_vpp",
+  "span": [
+   33920,
+   34124
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa s manželom rozídeme a majetok si rozdelíme, kto bude poistníkom?",
+  "doc_id": "union_vpp",
+  "span": [
+   48694,
+   48948
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak mi do domu vystúpi voda z kanalizácie a nešlo o povodeň, je to poistené?",
+  "doc_id": "union_vpp",
+  "span": [
+   57454,
+   57573
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak mám na terase fóliu, ktorá sa pod ťahom snehu poškodila, je to poistná udalosť?",
+  "doc_id": "union_vpp",
+  "span": [
+   57853,
+   57959
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi praskne potrubie a voda začne tiecť do bytu, bude to poistné plnenie, ak prasklo z toho, že zamrzlo?",
+  "doc_id": "union_vpp",
+  "span": [
+   59210,
+   59308
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak nájdem veci, ktoré mi boli ukradnuté a poisťovňa mi na ne vyplatila peniaze, musím ich vrátiť?",
+  "doc_id": "union_vpp",
+  "span": [
+   69485,
+   69671
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mám poistku na zodpovednosť a niekto mi tvrdí, že som mu spôsobil škodu, aké papiere mi bude treba doložiť, aby som si mohol uplatniť náhradu škody?",
+  "doc_id": "union_vpp",
+  "span": [
+   73136,
+   73292
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Mám bytový dom a chcem ho poistiť. Akú časť nehnuteľnosti poistka pokrýva?",
+  "doc_id": "union_vpp",
+  "span": [
+   84372,
+   84556
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mám poistenú chalupu a ja som si nastavil vyššiu hodnotu poistenia, aby som mal pokoj, ale pri poistnej udalosti by sa zistilo, že chalupa je skutočne menej cenná, dostanem plnú výšku poistnej sumy alebo len toľko, koľko je tá chalupa skutočne stáť?",
+  "doc_id": "union_vpp",
+  "span": [
+   93961,
+   94180
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi chcete navýšiť poistné, kedy mi musíte povedať, aby som mal čas sa rozhodnúť, či s tým súhlasím?",
+  "doc_id": "union_vpp",
+  "span": [
+   94963,
+   95115
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak by som sa rozhodol zmeniť, či chcem, aby sa mi poistná suma a poistné pravidelne upravovali podľa nejakého indexu, kedy sa táto zmena začne prejavovať?",
+  "doc_id": "union_vpp",
+  "span": [
+   95740,
+   95896
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak treba po požiari odpratať sutiny z domu, preplatí to poisťovňa?",
+  "doc_id": "union_vpp",
+  "span": [
+   98656,
+   98741
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak sa po poistnej udalosti musím dočasne vysťahovať do inej budovy, platí poistenie aj tam?",
+  "doc_id": "union_vpp",
+  "span": [
+   102948,
+   103075
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak ceny potravín a služieb porastú v priebehu roka, bude sa meniť aj suma, za ktorú som poistený a koľko za to budem platiť?",
+  "doc_id": "union_vpp",
+  "span": [
+   118290,
+   118546
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi stane nehoda, keď mám platnú poistku, a poistka hradí len časť nákladov, aký je maximálny limit peňazí, ktoré mi môžu preplatiť?",
+  "doc_id": "union_vpp",
+  "span": [
+   127489,
+   127721
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mám nejaký podiel v spoločnosti, ktorá utrpela škodu, bude mi poisťovňa vyplatiť menej peňazí?",
+  "doc_id": "union_vpp",
+  "span": [
+   134048,
+   134245
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi poisťovňa poverí právnika na obhajobu, môžem si vybrať iného právnika, ak s tým nebudem spokojný?",
+  "doc_id": "union_vpp",
+  "span": [
+   148711,
+   148747
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi víchrica alebo krupobitie poškodí záhradný nábytok, bude to hradené?",
+  "doc_id": "union_vpp",
+  "span": [
+   167339,
+   167475
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Môžem si poistiť svoje akvárium, ktoré má 70 litrov?",
+  "doc_id": "union_vpp",
+  "span": [
+   167782,
+   167829
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Môžem si poistiť aj veci, ktoré mám v záhradnom domčeku, kde občas len relaxujem a nie je to časť môjho domu?",
+  "doc_id": "union_vpp",
+  "span": [
+   170513,
+   170632
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Čo sa stane, ak mi niekto ukradne stroje, ktoré mám v servise na opravu?",
+  "doc_id": "union_vpp",
+  "span": [
+   172088,
+   172342
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak budem rekonštruovať svoju budovu, je poistené aj moje náradie a stavebný materiál, ktorý používam a skladujem na pozemku pri nej?",
+  "doc_id": "union_vpp",
+  "span": [
+   175295,
+   175462
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak chcem rekonštruovať svoju chalupu, musím si zabezpečiť ochranu pred padajúcimi predmetmi alebo inými nebezpečenstvami, ktoré vzniknú pri stavebných prácach. Ak sa na to niečo stane, bude to hradené poistkou?",
+  "doc_id": "union_vpp",
+  "span": [
+   175900,
+   176141
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak by sa mi v záhrade niečo zničilo, dostanem celú sumu, za ktorú som to kúpil, alebo len nejakú časť?",
+  "doc_id": "union_vpp",
+  "span": [
+   184380,
+   184559
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mám už dlhodobo problémy s chrbtom, ale ešte som na to nebol k lekárovi, a počas dovolenky sa mi to zhorší, bude mi poistné plnenie pre tieto problémy vyplatené?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   3952,
+   4165
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Môj syn má cukrovku, ktorá už existovala, keď som si poistku vybavil. Ak bude musieť ísť do nemocnice kvôli tejto cukrovke, bude to stále pokryté poistkou?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   4166,
+   4335
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi doktor predpíše špeciálnu bandáž po úraze, bude to poisťovňa hradiť?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   5412,
+   5612
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi stane nehoda a zraním sa, musí to byť spôsobené nejakou vonkajšou silou, napríklad pádom zo stoličky, alebo sa to počíta aj keby som sa napríklad zotrávil niečím?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   5785,
+   6045
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi blesk zasiahne televízor a ten sa pokazí, bude poistka na opravu alebo výmenu platiť?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   7018,
+   7144
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak by ma počas dovolenky zaplavila povodeň, bude to na poistné plnenie?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   10121,
+   10325
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Môžem si poistiť rodinnú dovolenku so štyrmi kamarátmi, ktorí nie sú moji príbuzní a nemajú rovnaké bydlisko?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   12449,
+   12581
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak si poistku objednám až na popoludnie, platím za celý deň?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   17171,
+   17323
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak chcem na dovolenke letieť na paraglide, vzťahuje sa na to poistenie?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   30597,
+   30711
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak náhodou niečo pokazím v apartmáne, napríklad rozbijem lampu, je to zahrnuté v poistke?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   32608,
+   32748
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa stane nehoda a rozhodne súd, kedy mi vyplatíte peniaze?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   33806,
+   33980
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak spôsobím škodu môjmu švagrovi, s ktorým bývam, preplatia mi to?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   38829,
+   39012
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa dostanem do situácie, že ma niekto súdi pre nejakú škodu, ktorú som spôsobil, zaplatíte mi náklady na právnika?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   39440,
+   39671
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak môj príbuzný zomrie po úraze, ale lekári zistia, že má vážne trvalé následky, dostanú jeho dedičia nejaké peniaze?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   45405,
+   45630
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak ma niekto zavraždí do troch rokov od uzavretia zmluvy, dostanú pozostalí plnenie?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   47885,
+   48073
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak poruším niečo, čo by som mal/a robiť podľa poistnej zmluvy, môžem dostať menej peňazí, ak sa mi niečo stane, alebo mi vôbec nič nezaplatia?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   49149,
+   49410
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak ma niekto zachraňujú z nebezpečnej situácie a musím zaplatiť za to, ako sa to rieši s mojou poisťovňou?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   51638,
+   51899
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi niečo stane v zahraničí a potrebujem pomoc, komu mám najprv zavolať?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   52706,
+   52994
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak nechám svoje cennosti v uzamknutej skrini na izbe, je to v poriadku a poistené?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   55147,
+   55223
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi voda z potrubia pretečie a poškodí môj kufor, bude to kryté poistením?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   56325,
+   56486
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Čo sa stane, ak mi niekto ukradne letenku a doklady z auta, kde som ju nechal? Získa sa plná kompenzácia?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   58698,
+   58852
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi v hoteli niečo ukradnú, čo mám spraviť?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   60736,
+   60909
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi batožinu ukradne môj brat, bude poisťovňa platiť?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   61827,
+   61961
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak mi v júni dopadne skúška na vysokej škole, a cesta mám naplánovanú na august, bude mi poisťovňa hradiť škodu, ak budem musieť skúšku opakovať?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   66580,
+   66802
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi stane niečo nepredvídané a nemôžem ísť na cestu, do koľkých hodín musím o tom informovať cestovnú kanceláriu, ak to bude mať vplyv na to, koľko mi vyrubia za zrušenie?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   67834,
+   68155
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa môj doktor rozhodne, že je potrebné, môžem ho nechať, aby vám oznámil, aký mám zdravotný stav?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   69198,
+   69297
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak budem s niečím nesúhlasný a chcem sa s vami poradiť, kam môžem napísať?",
+  "doc_id": "uniqa_cestovne",
+  "span": [
+   72295,
+   72445
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Môžem si poistiť cestu, ak žijem v Česku?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   6681,
+   6833
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak potrebujem zubársku pomoc v zahraničí, mám pravidelne chodiť na preventívne prehliadky na Slovensku a ak nie, ovplyvní to moju poisťovňu?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   10159,
+   10366
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak silný vietor zničil moju záhradu a poškodil plot, musím dokázať, akú rýchlosť mal vietor, aby mi poisťovňa preplatila škodu?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   12618,
+   12713
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi počas dovolenky padajú z oblohy kocky ľadu a poškodia moju tašku, bude to poistné plnenie?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   13069,
+   13251
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Chcem ísť na dovolenku a potom hneď po jej skončení na krátku služobnú cestu. Môžem si poistiť obe cesty jednou poistnou zmluvou?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   15679,
+   15790
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa rozhodnem cestovné poistenie zrušiť tesne pred odletom, dostanem peniaze späť a ak áno, koľko?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   20019,
+   20286
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak by mi niekto niečo zničil, a ja by som mal nárok na náhradu od neho, znamená to, že poistovňa by si mohla nárokovať túto náhradu od nejakého tretieho človeka, a ja by som im musel pomôcť?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   26421,
+   27011
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa zúčastním miestneho behu a zraním sa, bude mi poisťovňa preplácať náklady?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   32702,
+   32957
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa s poisťovňou neviem dohodnúť na tom, koľko peňazí mi majú za škodu zaplatiť, ako to môžeme vyriešiť?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   34637,
+   34765
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak som zamestnanec a pri ceste sa mi stane nehoda, ktorá spôsobí škodu, je táto škoda poistená?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   42727,
+   42875
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi stane niečo, čo sa považuje za zranenie, na čo môžem dostať peniaze?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   45344,
+   45613
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi stane nehoda a polícia ju bude vyšetrovať, potrebujem potom niečo od nich poslať vám?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   51586,
+   51697
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak by mi niekto, kto má poistenie, zomrel a ja by som bol jeho dedič, čo musím predložiť, aby som mohol získať peniaze z poistenia?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   51698,
+   52178
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Čo sa stane, ak mi počas poistnej zmluvy priznajú invalidný dôchodok?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   54685,
+   54947
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak sa mi v teréne stane nehoda a potrebujem pomoc, zabezpečíte mi previezť k lekárovi?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   56440,
+   56580
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak ma zachránili hasiči a musím im zaplatiť, čo musím im poslať, aby mi to poisťovňa preplatila?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   57787,
+   57919
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mám nejaký dlhodobý zdravotný problém a chcem ísť do hôr, čo mám urobiť?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   58569,
+   58810
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak zabudnem pred cestou zobrať so sebou lieky, ktoré užívam pravidelne, a týmto sa mi počas dovolenky zhorší zdravotný stav, môže to ovplyvniť to, či mi bude poisťovňa preplácať náklady na liečbu?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   59822,
+   60064
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak ma niekto v horách problém a príde záchranná akcia, bude poistka hradiť náklady, ak ju vykonáva dobrovoľnícke združenie, ktoré spolupracuje s hasičmi?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   60465,
+   60716
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Môžem byť poistený, ak idem trekovat do jaskyne, ktorá nie je určená pre turistov, ale mám k tomu povolenie?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   62077,
+   62157
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Na aké číslo mám zavolať, ak sa v horách stratím a potrebujem pomoc?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   62735,
+   62965
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak by sa mi niečo stalo v horách a záchranári ma museli hľadať a zachrániť, kto zaplatí túto záchrannú akciu?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   64113,
+   64253
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Čo sa stane, ak mi poškodí oblečenie voda, ktorá vytiekla z potrubia v kúrení?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   66337,
+   66500
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi niekto ukradne moje lyže a okuliare z auta, dostanem na ne náhradu?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   69232,
+   69305
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Čo sa stane, ak mi niekto ukradne letenku a pas a potrebujem si ich znova vybaviť?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   70015,
+   70263
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Čo ak mi veci ukradnú bez toho, aby zlodej musel niečo vypáčiť?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   75190,
+   75284
+  ],
+  "rewritten": true
+ },
+ {
+  "question": "Ak som zaplatil prvú splátku za dovolenku, kedy začne plynúť poistná ochrana pre storno?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   75861,
+   76069
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak zruším cestu a nahlásim to, kedy musím to spraviť, aby som mohol požiadať o vrátenie peňazí?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   81829,
+   82017
+  ],
+  "rewritten": false
+ },
+ {
+  "question": "Ak mi pred cestou diagnostikovali cukrovku a musel som na to do nemocnice, bude môj zájazd poistený, ak sa situácia zhorší a nebudem môcť ísť?",
+  "doc_id": "uniqa_dcr",
+  "span": [
+   85636,
+   85848
+  ],
+  "rewritten": false
+ }
+]
